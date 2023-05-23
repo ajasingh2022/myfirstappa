@@ -1,0 +1,3 @@
+[submodule "azureboard"]
+	path = azureboard
+	url = https://github.com/ajasingh2022/azureboard_Integration.git
